@@ -1,0 +1,52 @@
+
+[
+    {
+      "name": "Jay ",
+      "code": "jay",
+      "img":"https://cdn.pixabay.com/photo/2016/06/15/16/16/man-1459246_960_720.png",
+      "Job":"Frontend Developer"
+    },
+    {
+      "name": "Rama",
+      "code": "rama",
+      "img":"https://cdn.pixabay.com/photo/2016/06/15/16/16/man-1459246_960_720.png",
+      "Job":"Finance"
+    },
+    {
+      "name": "Raja",
+      "code": "raja",  
+      "img":"https://cdn.pixabay.com/photo/2016/06/15/16/16/man-1459246_960_720.png",
+      "Job":"Frontend Developer"
+    },
+    {
+      "name": "Tushar",
+      "code": "tushar",
+      "img":"https://cdn.pixabay.com/photo/2016/06/15/16/16/man-1459246_960_720.png",
+      "Job":"Java Developer"
+    },
+    {
+      "name": "Addie",
+      "code": "addie",
+      "img":"https://cdn.pixabay.com/photo/2016/06/15/16/16/man-1459246_960_720.png",
+      "Job":"PHP Developer"
+    },
+    {
+      "name": "Aeryn",
+      "code": "aeryn",
+      "img":"https://cdn.pixabay.com/photo/2016/06/15/16/16/man-1459246_960_720.png",
+      "Job":"Senior Software Developer"
+    },
+    {
+      "name": "Ambria",
+      "code": "ambria",
+      "img":"https://cdn.pixabay.com/photo/2016/06/15/16/16/man-1459246_960_720.png",
+      "Job":"Fullstack Developer"
+    },
+    {
+      "name": "Amana",
+      "code": "amana",
+      "img":"https://cdn.pixabay.com/photo/2016/06/15/16/16/man-1459246_960_720.png",
+      "Job":"Marketing"
+    }
+  ]
+  
